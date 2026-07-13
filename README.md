@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parla-tellioglu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parla.tellioglu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parlatellioglu)
 
 </div>
 
@@ -37,33 +36,7 @@ I build applied AI systems where research-grade ideas meet software that has to 
 
 ## Tools
 
-**Languages**
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,ts,html,opencv,sklearn,fastapi,nextjs&perline=9)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Also:** LLMs and RAG, LangGraph, Ollama, Pandas
 
-**AI / ML**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
-
-**Web**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-## GitHub
-
-<div align="center">
-
-![Parla's GitHub stats](https://github-readme-stats.vercel.app/api?username=parlatellioglu&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=808080)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parlatellioglu&layout=compact&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=808080)
-
-</div>
