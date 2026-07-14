@@ -4,6 +4,7 @@
 
 **Computer Science / Software Engineering MEng — University of Birmingham**
 
+[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parlatellioglu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parla-tellioglu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parla.tellioglu@gmail.com)
 
@@ -11,7 +12,7 @@
 
 ---
 
-I build applied AI systems where research-grade ideas meet software that has to actually run — retrieval-augmented assistants, agent pipelines, vision systems, and forecasting models.
+I design and build software and intelligent systems, spanning engineering, data, and applied AI.
 
 ## Currently
 
@@ -34,9 +35,13 @@ I build applied AI systems where research-grade ideas meet software that has to 
 - Computer vision research at METU's Applied Intelligence Research Lab — OpenCV pipelines for color filtering, homography estimation, foreground/background separation, and pose estimation.
 - Two-time BirmingHack winner (Best Use of AI Agents on Arm, 2026; Best AI Hack, 2025).
 
-## Tools
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,ts,html,opencv,sklearn,fastapi,nextjs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,opencv,nextjs,fastapi,flask,git,github&perline=9)](https://skillicons.dev)
 
-**Also:** LLMs and RAG, LangGraph, Ollama, Pandas
+- **Programming** — Python, Java, C
+- **AI / ML** — LLMs, LangGraph, Ollama, XGBoost
+- **Data Science** — ARIMA, Time Series, Statsmodels
+- **Computer Vision** — OpenCV, NumPy
+- **Web & Tools** — Next.js, FastAPI, Flask, Git
 
