@@ -37,7 +37,7 @@ I design and build software and intelligent systems, spanning engineering, data,
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,opencv,nextjs,fastapi,flask,git,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,typescript,opencv,nextjs,fastapi,flask,git,github&perline=10)](https://skillicons.dev)
 
 - **Programming** — Python, Java, C
 - **AI / ML** — LLMs, LangGraph, Ollama, XGBoost
